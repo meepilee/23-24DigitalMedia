@@ -2,7 +2,7 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 	margin: 0 auto;
-	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	font: 100%/1.4 Times, Times New Roman, serif;
      	background-color: #FFFFFF;
 }
 .homePage {
@@ -20,7 +20,7 @@ body {
 	float: left;
 	width: 100%;
 	height: 80px;
-	
+	font: 100%/1.4 Chalkduster, fantasy
 }
 .nav {
 	background: #1C996F;
