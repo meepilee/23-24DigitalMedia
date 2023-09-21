@@ -7,10 +7,10 @@ body {
 	color: #010101;
 }
 a:link {
-     color: #0000FF;
+     color: #0000AA;
 }
 a:visited {
-     color: #0000FF;
+     color: #0000AA;
 }
 a:hover, a:active, a:focus { 
      text-decoration: underline;
